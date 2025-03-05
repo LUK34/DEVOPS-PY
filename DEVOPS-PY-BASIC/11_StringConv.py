@@ -1,0 +1,5 @@
+print(type(str(123)))
+print(type(str(0b1001)))
+print(type(str(1.00023)))
+print(type(str(1-23j)))
+print(type(str(True)))
