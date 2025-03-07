@@ -80,18 +80,22 @@
 - This programme tells how output values in different values.
 
 ## 18_Operators.py
-- This programme deals with Operators.
+- This programme deals with Operators. The various operators in this prgrm: Arthimatic, Assignment and Relational Operator.
 
 ## 19_TrnOprt_eg1.py
+- Ternary Opertaor
 - Write a python programme using conditional operator to find whether the given number is positive or negative
 
 ## 20_TrnOprt_eg2.py
+- Ternary Opertaor
 - Write a python programme to accept the user input to check whether the user is eligible to vote or not
 
 ## 21_TrnOprt_eg3.py
+- Ternary Opertaor
 - Write a python programme to accept the number as input. To check whether the number is even or odd
 
 ## 22_TrnOprt_eg4.py
+- Ternary Opertaor
 - WRITE A PYTHON PROGRAM TO FIND WHICH NUMBER IS BIGGER AMONG THE TWO GIVEN INTEGERS USING CONDITIONAL OPERATOR
 
  
