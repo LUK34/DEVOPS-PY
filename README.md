@@ -76,16 +76,23 @@
 - Octal to Decimal -> 1*8^2 + 0*8^1 + 2*8^0 = 66
 - Decimal to Hexadecimal -> 66 keep dividing this number by 16, take the reminder from bottom to top.
 
-
 ## 17_PrintingElement.py
 - This programme tells how output values in different values.
 
+## 18_Operators.py
+- This programme deals with Operators.
 
+## 19_TrnOprt_eg1.py
+- Write a python programme using conditional operator to find whether the given number is positive or negative
 
+## 20_TrnOprt_eg2.py
+- Write a python programme to accept the user input to check whether the user is eligible to vote or not
 
+## 21_TrnOprt_eg3.py
+- Write a python programme to accept the number as input. To check whether the number is even or odd
 
-
-
+## 22_TrnOprt_eg4.py
+- WRITE A PYTHON PROGRAM TO FIND WHICH NUMBER IS BIGGER AMONG THE TWO GIVEN INTEGERS USING CONDITIONAL OPERATOR
 
  
 
