@@ -1,0 +1,10 @@
+# logical NOT operator
+print("not True -> ",not True)
+print("not False -> ",not False)
+print("not 100 -> ",not 100)
+print("not 0 -> ",not 0)
+print("not 0-1j -> ",not 0-1j)
+print("not 1.001 -> ", not 1.001)
+print("not 0.000 -> ",not 0.000)
+print(' not `a` -> ',not 'a')
+print('not `` -> ',not '')
