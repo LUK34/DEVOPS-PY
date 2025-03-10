@@ -106,3 +106,6 @@
 
 ## 25_LogicalNot.py 
 - Logical NOT operator with BOOLEAN, INTEGER, FLOAT, COMPLEX, STRING
+
+## 26_BitWiseOprt.py
+- BitWise operator: & (AND), | (or), ^ (XOR), ~ (NOT)
