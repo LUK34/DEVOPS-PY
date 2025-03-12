@@ -108,4 +108,5 @@
 - Logical NOT operator with BOOLEAN, INTEGER, FLOAT, COMPLEX, STRING
 
 ## 26_BitWiseOprt.py
-- BitWise operator: & (AND), | (or), ^ (XOR), ~ (NOT)
+- BitWise operator: & (AND), | (or), ^ (XOR), ~ (NOT), << (LEFT SHIFT), >> (RIGHT SHIFT), Special Operator (id, is, is not), Membership Operator (in, not in)
+
