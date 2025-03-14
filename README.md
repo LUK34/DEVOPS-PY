@@ -115,3 +115,20 @@
 
 ## 28_IfElifElse.py
 - If Elif Else statement example.
+
+## 29_Usrnm_Psswd.py
+- To check if the entered username and password matches or not.
+
+## 30_BllngSys_1.py
+- Billing System part 1
+
+## 31_BllngSys_2.py
+- Billing System part 2
+
+## 32_EvenOdd.py
+- To find the given number is even or odd.
+
+## 33_SmallAmong4.py
+- To find the smallest among 4 numbers.
+
+
