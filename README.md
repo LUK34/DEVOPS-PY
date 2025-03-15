@@ -131,4 +131,21 @@
 ## 33_SmallAmong4.py
 - To find the smallest among 4 numbers.
 
+## 34_range.py
+- Examples related to range
+
+## 35_even_range.py
+- Display list of even number based on the range entered by the user
+
+## 36_odd_range.py
+-  Display list of odd number based on the range entered by the user
+
+## 37_even_sum_range.py
+- Display SUM of even number based on the range entered by the user
+
+## 38_odd_sum_range.py
+- Display SUM of odd number based on the range entered by the user
+
+
+
 
