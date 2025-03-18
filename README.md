@@ -146,6 +146,20 @@
 ## 38_odd_sum_range.py
 - Display SUM of odd number based on the range entered by the user
 
+## 39_NestedForLoop.py
+- Nested for loop example.
+
+## 40_NestedForLoop_MultTbl.py
+- Nested for loop to generate multiplication table.
+
+## 41_Nfl_SumofPerfectNums.py
+- Write a python program to print all perfect numbers from 1 to 100
+- Perfect number: Sum of all the factors of the given number excluding itself is equal to given number is called as "Perfect number"
+- ex: 48 ==> 1,2,3,4,6,8,12,16,24,48
+- 1+2+3+4+6+8+12+16+24+48 ==>78
+- 78 == 48 ==> is not a perfect number
+
+
 
 
 
