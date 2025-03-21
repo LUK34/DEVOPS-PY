@@ -186,6 +186,14 @@
 ## 49_SumOfDigit.py
 - To find the sum of individual digits of a given number.
 
+## 50_ArmstrongNum.py
+- To check if a number is an armstrong number of not.
+
+## 51_PalindromeRange.py
+- To check the range of numbers from 2 values given by the user and filter out the number is a palindrome or not.
+
+## 52_ArmstrongRange.py
+- To check the range of number from 2 values given by the user and filter out the numbers that is armstrong or not.
 
 
 
