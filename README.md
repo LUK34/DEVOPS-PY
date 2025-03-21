@@ -159,31 +159,31 @@
 - 1+2+3+4+6+8+12+16+24+48 ==>78
 - 78 == 48 ==> is not a perfect number
 
-# 42_PrimeNumber_break.py
+## 42_PrimeNumber_break.py
 - The programme will generate the rnage of numbers to check which are prime numbers based on the value entered by the user.
 - break command was used.
 
-# 43_break.py
+## 43_break.py
 - Display range of numbers from 1 to 11 and when it 7 break.
 
-# 44_continue.py
+## 44_continue.py
 - Display range of numbers from 1 to 11 and when it 7 , it will display all the numbers except for 7.
 
-# 45_printNos_while.py
+## 45_printNos_while.py
 - Display range of numbers from 1 to 10 using while statement.
 
-# 46_while1.py
+## 46_while1.py
 - Write a python program to count the number of digits of the given number
 - Solution 1: using str() method
 - Solution 2: using while() loop and floor division of 10
 
-# 47_while2.py
+## 47_while2.py
 - Write a python program to reverse a given number.
 
-# 48_palindrome.py
+## 48_palindrome.py
 - To check if the given number entered is palindrome or not.
 
-# 49_SumOfDigit.py
+## 49_SumOfDigit.py
 - To find the sum of individual digits of a given number.
 
 
