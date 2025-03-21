@@ -172,6 +172,19 @@
 # 45_printNos_while.py
 - Display range of numbers from 1 to 10 using while statement.
 
+# 46_while1.py
+- Write a python program to count the number of digits of the given number
+- Solution 1: using str() method
+- Solution 2: using while() loop and floor division of 10
+
+# 47_while2.py
+- Write a python program to reverse a given number.
+
+# 48_palindrome.py
+- To check if the given number entered is palindrome or not.
+
+# 49_SumOfDigit.py
+- To find the sum of individual digits of a given number.
 
 
 

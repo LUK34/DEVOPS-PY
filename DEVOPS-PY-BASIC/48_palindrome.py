@@ -1,4 +1,4 @@
-
+# To check if the given number is palindrome or not
 
 number=int(input("Enter a value:")) #9876
 
