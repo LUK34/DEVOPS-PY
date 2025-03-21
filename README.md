@@ -159,6 +159,20 @@
 - 1+2+3+4+6+8+12+16+24+48 ==>78
 - 78 == 48 ==> is not a perfect number
 
+# 42_PrimeNumber_break.py
+- The programme will generate the rnage of numbers to check which are prime numbers based on the value entered by the user.
+- break command was used.
+
+# 43_break.py
+- Display range of numbers from 1 to 11 and when it 7 break.
+
+# 44_continue.py
+- Display range of numbers from 1 to 11 and when it 7 , it will display all the numbers except for 7.
+
+# 45_printNos_while.py
+- Display range of numbers from 1 to 10 using while statement.
+
+
 
 
 
