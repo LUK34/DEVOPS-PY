@@ -169,30 +169,30 @@
 ## 44_continue.py
 - Display range of numbers from 1 to 11 and when it 7 , it will display all the numbers except for 7.
 
-## 45_printNos_while.py
+## 45_printNos_while.py (Important)
 - Display range of numbers from 1 to 10 using while statement.
 
-## 46_while1.py
+## 46_while1.py (Important)
 - Write a python program to count the number of digits of the given number
 - Solution 1: using str() method
 - Solution 2: using while() loop and floor division of 10
 
-## 47_while2.py
+## 47_while2.py (Important)
 - Write a python program to reverse a given number.
 
-## 48_palindrome.py
+## 48_palindrome.py (Important)
 - To check if the given number entered is palindrome or not.
 
-## 49_SumOfDigit.py
+## 49_SumOfDigit.py (Important)
 - To find the sum of individual digits of a given number.
 
-## 50_ArmstrongNum.py
+## 50_ArmstrongNum.py (Important)
 - To check if a number is an armstrong number of not.
 
-## 51_PalindromeRange.py
+## 51_PalindromeRange.py (Important)
 - To check the range of numbers from 2 values given by the user and filter out the number is a palindrome or not.
 
-## 52_ArmstrongRange.py
+## 52_ArmstrongRange.py (Important)
 - To check the range of number from 2 values given by the user and filter out the numbers that is armstrong or not.
 
 
