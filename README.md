@@ -195,6 +195,35 @@
 ## 52_ArmstrongRange.py (Important)
 - To check the range of number from 2 values given by the user and filter out the numbers that is armstrong or not.
 
+## 53_FuncDefinition.py
+- This is a simple function call without any parameters passed.
+
+## 54_FuncWithData.py
+- This is a simple function call with parameters passed.
+
+## 55_Func_GenerateRange.py
+- This is a simple function call without any parameters passed -> if no parameters -> a default value will be taken.
+- This is a simple function call with a parameter passed -> use that parameter and get the range.
+
+## 56_Func_ReturnValue.py
+- Function call by passing parameters. Each function will return the value.
+
+## 57_Func_FormalAndActualParam.py
+- This programme will show what is formal and actual parameter.
+
+## 58_Func_PositionArg.py
+- This programme will show how position argument affects the final result set.
+
+## 59_Func_KeywordArgs.py
+- This programme will show how keyword argument affects the final result set.
+
+## 60_Func_DefaultArgs.py
+- This programme will show how the function will be executed if values are not passed. Provided default values are present in the function.
+
+## 61_Func_VariableLength.py
+- This programme will show a function will accept n number of arguments using variable length parameter.
+
+
 
 
 
