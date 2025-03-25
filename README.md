@@ -223,6 +223,18 @@
 ## 61_Func_VariableLength.py
 - This programme will show a function will accept n number of arguments using variable length parameter.
 
+## 62_stringHandle_1.py
+- The programme shows the different way the string is represented. 
+
+## 63_evalMethod.py
+- eval() method -> we have to specify the value in single qoutes(''). This is how we enter the value for eval.
+
+## 64_string_lengthOfString.py
+- Length of the string using len method + for loop method.
+
+## 65_string_indexing.py
+- Positive Index -> Forward Access -> Left to right.
+- Negative Index -> Backward Acces -> Right to Left.
 
 
 
