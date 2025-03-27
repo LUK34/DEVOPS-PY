@@ -236,6 +236,42 @@
 - Positive Index -> Forward Access -> Left to right.
 - Negative Index -> Backward Acces -> Right to Left.
 
+## 66_slicing.py
+- Programme focuses on string slicing.
+- string[start:stop:step]
+- start: index to begin the slice (inclusive)
+- stop: index to end the slice (exclusive)
+- step: how many characters to move forward (default is 1)
 
+## 67_string_concat.py
+- Programme focuses on string concat and string repetition.
+
+## 68_string_strip.py
+- Programme focuses on string strip.
+- strip() method in Python is used to remove leading and trailing whitespace (or specified characters) from a string.
+
+## 69_string_find.py
+- Programme focuses on string find().
+- find() method in Python is used to search for a substring within a string and returns the index of the first occurrence.
+- If the substring is not found, it returns -1.
+- string.find(substring, start, end)
+- substring: Required. The string to search for.
+- start: Optional. The starting index (default is 0).
+- end: Optional. The ending index (default is end of string).
+
+## 70_string_replace.py
+- Programme focuses on string replace. 
+- replace() method in Python is used to replace occurrences of a substring with another substring.
+- string.replace(old, new, count)
+- old: The substring you want to replace.
+- new: The substring you want to replace it with.
+- count (optional): Number of occurrences to replace. If omitted, replaces all.
+
+## 71_string_join.py
+- Programme focuses on string join.
+- join() method in Python is used to combine a list (or any iterable) of strings into a single string, using a separator.
+- separator.join(iterable)
+- separator: The string that will be placed between the elements.
+- iterable: The list, tuple, or other iterable of strings to join.
 
 
