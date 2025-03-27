@@ -274,7 +274,7 @@
 - separator: The string that will be placed between the elements.
 - iterable: The list, tuple, or other iterable of strings to join.
 
-## 72_tuple.py
+## 72_tuple.py (Important)
 - Programme explore tuple.
 - Tuple is one of the collection data structure.
 - When we want to define a variable with more than one value,
@@ -284,11 +284,32 @@
 - Convert tuple to list
 - Convert list to tuple
 
-## 73_tuple_methods.py
+## 73_tuple_methods.py (Important)
 - Programme focuses on methods of tuple.
 - len() ==> used to find the length of the tuple
 - count() ==> return the number of occurrences of the specified element within the tuple
 - index() ==> to get the index of the specified element, we can use "index()".
 - sorted() ==> to sort the tuple, we can use "sorted()"
+
+## 74_string_valid_startswith.py
+- Checks whether the string has started with given set of characters or not, to check "startswith()" can be used.
+
+## 75_string_valid_endswith.py
+- when we need to check whether the string is ended with specified group of characters or not.
+
+## 76_string_valid_isaplha.py
+- Whether the given string is defined with only alphabets or not.
+
+## 77_string_valid_isalnum.py
+- whether the given string is with all alphabets and digits or not.
+
+## 78_string_valid_islower.py
+- if the string is with only lower case alphabets, islower() can return "True". Otherwise it returns "False".
+
+## 79_string_valid_isupper.py
+- When the string with upper case alphabets isupper() ===> True otherwise: isupper() ==> False
+
+## 80_string_valid_isdigit.py
+- if the string with digits: isdigit() ==> True otherwise: isdigit() ==> False
 
 
