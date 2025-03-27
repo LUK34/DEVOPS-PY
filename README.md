@@ -211,16 +211,16 @@
 ## 57_Func_FormalAndActualParam.py
 - This programme will show what is formal and actual parameter.
 
-## 58_Func_PositionArg.py
+## 58_Func_PositionArg.py (Important)
 - This programme will show how position argument affects the final result set.
 
-## 59_Func_KeywordArgs.py
+## 59_Func_KeywordArgs.py (Important)
 - This programme will show how keyword argument affects the final result set.
 
-## 60_Func_DefaultArgs.py
+## 60_Func_DefaultArgs.py (Important)
 - This programme will show how the function will be executed if values are not passed. Provided default values are present in the function.
 
-## 61_Func_VariableLength.py
+## 61_Func_VariableLength.py (Important)
 - This programme will show a function will accept n number of arguments using variable length parameter.
 
 ## 62_stringHandle_1.py
@@ -229,28 +229,28 @@
 ## 63_evalMethod.py
 - eval() method -> we have to specify the value in single qoutes(''). This is how we enter the value for eval.
 
-## 64_string_lengthOfString.py
+## 64_string_lengthOfString.py (Important)
 - Length of the string using len method + for loop method.
 
-## 65_string_indexing.py
+## 65_string_indexing.py (Important)
 - Positive Index -> Forward Access -> Left to right.
 - Negative Index -> Backward Acces -> Right to Left.
 
-## 66_slicing.py
+## 66_slicing.py (Important)
 - Programme focuses on string slicing.
 - string[start:stop:step]
 - start: index to begin the slice (inclusive)
 - stop: index to end the slice (exclusive)
 - step: how many characters to move forward (default is 1)
 
-## 67_string_concat.py
+## 67_string_concat.py (Important)
 - Programme focuses on string concat and string repetition.
 
-## 68_string_strip.py
+## 68_string_strip.py (Important)
 - Programme focuses on string strip.
 - strip() method in Python is used to remove leading and trailing whitespace (or specified characters) from a string.
 
-## 69_string_find.py
+## 69_string_find.py (Important)
 - Programme focuses on string find().
 - find() method in Python is used to search for a substring within a string and returns the index of the first occurrence.
 - If the substring is not found, it returns -1.
@@ -259,7 +259,7 @@
 - start: Optional. The starting index (default is 0).
 - end: Optional. The ending index (default is end of string).
 
-## 70_string_replace.py
+## 70_string_replace.py (Important)
 - Programme focuses on string replace. 
 - replace() method in Python is used to replace occurrences of a substring with another substring.
 - string.replace(old, new, count)
@@ -267,11 +267,28 @@
 - new: The substring you want to replace it with.
 - count (optional): Number of occurrences to replace. If omitted, replaces all.
 
-## 71_string_join.py
+## 71_string_join.py (Important)
 - Programme focuses on string join.
 - join() method in Python is used to combine a list (or any iterable) of strings into a single string, using a separator.
 - separator.join(iterable)
 - separator: The string that will be placed between the elements.
 - iterable: The list, tuple, or other iterable of strings to join.
+
+## 72_tuple.py
+- Programme explore tuple.
+- Tuple is one of the collection data structure.
+- When we want to define a variable with more than one value,
+- we can allow to collect like `Tuple`
+- Indexing and slicing in tuple
+- Looping in tuple
+- Convert tuple to list
+- Convert list to tuple
+
+## 73_tuple_methods.py
+- Programme focuses on methods of tuple.
+- len() ==> used to find the length of the tuple
+- count() ==> return the number of occurrences of the specified element within the tuple
+- index() ==> to get the index of the specified element, we can use "index()".
+- sorted() ==> to sort the tuple, we can use "sorted()"
 
 
