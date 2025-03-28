@@ -312,4 +312,62 @@
 ## 80_string_valid_isdigit.py
 - if the string with digits: isdigit() ==> True otherwise: isdigit() ==> False
 
+## 81_list.py
+- using []
+- using list()
+
+## 82_list_split.py
+- split() method
+
+## 83_list_type.py
+- Lists are of 2 types: Homogenous List and Heterogenous List.
+- 1.List is ordered.
+- 2.Indexing is possible.
+- 3.Slicing is also possible.
+- 4.List is Homogeneous ==> when the list is defined with same datatype.
+- 5.List is Heterogeneous ==> when the list is defined with different datatypes
+- 6.List is mutable datatype
+- Display the list of elements using positive index.
+- Display the list of elements using negative index.
+
+## 84_list_traverse.py
+- Traversing the list using positive index and negative index.
+
+## 85_list_func_count.py
+- 1.count()
+- When we want to count the number of occurrences of each element/specified element in a list we can use count().
+
+## 86_list_func_index.py
+- 2.index()
+- to find the first occurrence of the specified element in a list, we can use index()
+
+## 87_list_func_append.py
+- 3.append()
+- when we want to add the element at the last in the list, we can use append()
+
+## 88_list_func_insert.py
+- 4.insert()
+- When we want to add the element at the specified index/position of the list, we can use insert()
+
+## 89_list_func_remove.py
+- 5.remove()
+- When we want to remove the specified element from the list, we can use remove().
+
+
+## 90_list_func_pop.py
+- 6.pop()
+- When we want to remove the specified element from the list, we can use pop().
+
+## 91_list_func_reverse.py
+- 7.reverse()
+- When we want to reverse the list we use
+
+## 92_list_func_sort.py
+- 8.sort()
+- When we want to sort the list we use sort()
+
+
+
+
+
 
