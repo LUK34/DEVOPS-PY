@@ -353,7 +353,6 @@
 - 5.remove()
 - When we want to remove the specified element from the list, we can use remove().
 
-
 ## 90_list_func_pop.py
 - 6.pop()
 - When we want to remove the specified element from the list, we can use pop().
@@ -366,8 +365,98 @@
 - 8.sort()
 - When we want to sort the list we use sort()
 
+## 93_set.py
+- #Set Data Structure:
+- () ==> allows duplication
+- [] ==> allows duplication
+- {} ==> not allows the duplication
+- 1) When we need to create the data structure which is not with any duplication then, we can use the set.
+- 2) set can be defined with {} all the elements {} must be separate with comma.
+- 3) set can possible to define homogeneous elements and with heterogeneous elements also.
+- 4) Set is also the pre-defined data, so we have a pre-defined class named as "set".
+- Is set ordered data -> Not ordered.
+- indexing is not possible.
+- slicing also not possible.
+- Is set mutable or immutable -> Mutable
 
+## 94_set_add.py
+- add():
+- if you want to add only one element to the set at any random position, we can use "add()".
+- set-data.add(element)
 
+## 95_set_update.py
+- update():
+- when we want to add more than one element to the set, we can use "update()"
+- set-data.update([e1, e2, e3,...])
+
+## 96_set_pop.py
+- pop():
+- pop() can remove any element randomly from the set.
+- set-data.pop()
+
+## 97_set_remove.py
+- remove():
+- when we want to remove the specified element from the set we can use "remove()".
+- set-data.remove(element)
+- if the specified element is not in the set, remove() can give "key error".
+
+## 98_set_discard.py
+- discard():
+- also remove the specific element from the set.
+-	set-data-name.discard(element)
+- No math operations like concatenation and repetition allowed on  sets.
+
+## 99_dict.py
+- When we want to create the data structures with key-value pairs, we can use "dictionaries".
+- dictionary-name = {key1 : val1, key2 : val2, ......}
+- Ex: Web application
+- registration form
+-	user-name : xxxxxx
+-	mobile: xxxxxx
+-	age : xxx
+- Dictionary is also a pre-defined data structure because it has pre-defined class "dict".
+- How to access dictionary elements:
+- no index is possible to access the dictionary.
+- to access the dictionary elements, we can use "keys".
+- Syntax:
+-	dictionary-name[key]
+- Is dictionary ordered -> Yes
+- Is dictionary mutable or immutable -> mutable
+
+## 100_dict_len.py
+- len():
+- to get the length of the dictionary, we can use "len()"
+
+## 101_dict_get.py
+- get():
+- i) when we want to access any value of the dictionary with respect to the key, we can use "get()".
+- dictionary-name.get(key)
+- ii) When we want to set new default value for any existing key of the dictionary, we can use get().
+- But if the specified key is already existed with some value, then we can get with existed value. Otherwise we can get the specified key with default value.
+- Syntax:
+-	dictionary-name.get(key, default-value)
+
+## 102_dict_keys_values.py
+- keys()
+- dictionary-name.keys()
+- values()
+- dictinary-name.values()
+- Note:
+- In dictionary:
+-	keys ==> unique
+-	values ==> unique or duplicate
+
+## 103_dict_items.py
+- items():
+- Syntax:
+-	dictionary-name.items()
+
+## 104_dict_popitem.py
+- popitem():
+- Syntax:
+-	d.popitem()
+- In Python dictionaries, keys must be unique. 
+- If the same key appears more than once, the last occurrence overwrites the earlier ones.
 
 
 
