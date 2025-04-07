@@ -458,5 +458,22 @@
 - In Python dictionaries, keys must be unique. 
 - If the same key appears more than once, the last occurrence overwrites the earlier ones.
 
+## 105_MyClassAndMyObject.py
+- A class is like a blueprint or template for creating objects. It defines properties (variables) and behaviors (functions/methods)
+- that the objects created from the class will have.
+- An object is an instance of a class. It is created using the class blueprint and holds actual data.
+- This programme focus on how to create class and its attributes
+- Create objects from the class and access the attribute value.
 
+## 106_StudentAndMethod_no_params.py
+- This progamme will teach how to create class and method with no parameter.
+- Create object from the class and call the method using that object
+
+## 107_StudentAndMethod_yes_params.py
+- This progamme will teach how to create class and method with parameter.
+- Create object from the class and call the method by passing parameter.
+
+## 108_CalculaotrAndMethod_ReturnType.py
+- This programme will teach how to create class and method with return type.
+- Create object from the class with return type.
 
