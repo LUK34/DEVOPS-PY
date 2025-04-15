@@ -473,7 +473,72 @@
 - This progamme will teach how to create class and method with parameter.
 - Create object from the class and call the method by passing parameter.
 
-## 108_CalculaotrAndMethod_ReturnType.py
+## 108_CalculatorAndMethod_ReturnType.py
 - This programme will teach how to create class and method with return type.
 - Create object from the class with return type.
+
+## 109_MethodTypes.py
+- This programme will teach you the different types of methods:
+- There are 4 ways
+- 1. Method with no parameter and no return type
+- 2. Method with parameter and no return type
+- 3. Method with no parameter but return type
+- 4. Method with parameter and return value.
+
+## 110_ClassMethods.py
+- `@classmethod` decorator
+- In python, a class is a method that is bound to the class and not the instance of the class.
+- It has access to the class itself via a special first parameter usually name cls.
+
+## 111_StaticMethod.py
+- `@staticmethod` decorator
+- In Python, a static method is a method that does not receive the self or cls parameter,
+- meaning it does not access or modify class or instance state. It's like a regular function,
+- but lives inside the class's namespace for organizational purposes.
+- Key Characterstics:
+- Doesn't take self or cls as the first argument.
+- Cannot access or modify class or instance variables.
+- Used when the method logic is related to the class, but doesn't need to access class or instance data.
+- When to use:
+- The logic is related to the class conceptually.
+- The method doesn’t need to access or change object or class state.
+- You want to keep utility functions grouped inside a class.
+
+## 112_Encapsulation.py
+- Encapsulation in Python is one of the core concepts of Object-Oriented Programming (OOP).
+- It refers to bundling data (attributes) and methods (functions) that operate on the data into a single unit (a class),
+- and restricting access to some of the object’s internal parts.
+- What Encapsulation Achieves:
+- 1. Data hiding – prevent direct access to variables.
+- 2. Access control – use methods to get or update data safely.
+- 3. Maintainability – makes code cleaner and easier to manage.
+- 4. Security – protect internal object state from unintended changes.
+
+## 113_RunTime_Polymorphism.py
+- Run time polymorphism -> Method Overloading.
+
+## 114_CompileTime_Polymorphism.py
+- Compile time polymorphism -> Method Overriding.
+
+## 115_SingleInheritance.py
+- Single Inheritance: One Child class inherits from one parent class.
+
+## 116_MultipleInheritance.py
+- Multiple Inheritance: means that a child class inherits from more than one parent class.
+- This allows the child class to access attributes and methods from all its parent classes.
+
+## 117_MultiLevelInheritance.py
+- Multilevel Inheritance: means a class is derived from a class that is also derived from anothe class.
+- It forms a chain of inheritance.
+
+## 118_HierarchialInheritance.py
+- Hierarchial Inheritance: In Hierarchical Inheritance, multiple child classes inherit from the same parent class.
+
+## 119_ErrorHandling.py
+- Error Handling:  error handling allows you to gracefully catch and manage exceptions (runtime errors) so your program doesn’t crash unexpectedly.
+
+## 120_FileHandling_WriteRead.py
+- File handling in Python lets you create, read, write, and delete files using built-in functions.
+
+
 
